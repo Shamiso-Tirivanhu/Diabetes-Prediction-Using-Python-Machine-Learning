@@ -10,7 +10,7 @@
 
 4. [Requirements](#requirements)
 
-    - Required Libraries
+    - [Required Libraries](#required-libraries)
 
 5. [Implementation Steps](#implementation-status)
 
