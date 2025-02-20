@@ -103,7 +103,7 @@ After preprocessing, the dataset was split into training and test sets using an 
 
 Training & Evaluation for Diabetes Machine Learning model for the Diabetes data set
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Diabetes-Prediction-Using-Python-Machine-Learning/blob/94eaa6e869dcf5706e46d3f81bd65afc6defd3d7/Training%20and%20Evalution%20for%20the%20ML%20model%20and%20accuracy%20score.png)
 
 
 ## 7. Model Evaluation
