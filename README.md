@@ -31,7 +31,7 @@ Diabetes is a chronic disease that affects millions of people worldwide. Early d
 
 A diagram preview of the dataset that l was working on this project.
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Diabetes-Prediction-Using-Python-Machine-Learning/blob/3ebb13a556487331fe914a2af71ab12eaf58336a/A%20data%20preview%20of%20the%20Diabetes%20dataset%20-first%20five%20rows%20of%20the%20dataset.png)
 
 ## 2. Features
 
